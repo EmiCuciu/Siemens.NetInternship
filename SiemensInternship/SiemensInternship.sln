@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiemensInternship", "SiemensInternship.csproj", "{9CA6B08E-430C-4B55-9DB8-B8CEA03994CE}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement", "SiemensInternship\LibraryManagement.csproj", "{82687CE8-7F13-4708-BE42-9CDEAFE97E92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9CA6B08E-430C-4B55-9DB8-B8CEA03994CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9CA6B08E-430C-4B55-9DB8-B8CEA03994CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9CA6B08E-430C-4B55-9DB8-B8CEA03994CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9CA6B08E-430C-4B55-9DB8-B8CEA03994CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82687CE8-7F13-4708-BE42-9CDEAFE97E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82687CE8-7F13-4708-BE42-9CDEAFE97E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82687CE8-7F13-4708-BE42-9CDEAFE97E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82687CE8-7F13-4708-BE42-9CDEAFE97E92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CC8C63A-DBA1-4E72-A8AF-A36C57256F65}
 	EndGlobalSection
 EndGlobal
