@@ -8,15 +8,8 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/EmiCuciu/Siemens.NetInternship.git
-   cd LibraryManagement
 
-2. Resore dependencies
-   ```bash
-   dotnet restore
-
-3. Run the application:
-   ```bash
-   dotnet run --project ConsoleApp
+2. Open VS , select the solution and run
 
 ### ⚙️ Configuration
 - The SQLite database (Library.db) is auto-created in bin/Debug/net8.0.
